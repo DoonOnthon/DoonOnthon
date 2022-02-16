@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @DoonOnthon
-- 🌱 I’m currently learning C#
+
 
 
 <!---
