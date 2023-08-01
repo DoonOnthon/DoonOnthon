@@ -19,6 +19,6 @@ In this rapidly evolving tech world, I consider learning a never-ending adventur
 Collaboration is key to growth, and I thrive in team environments. I love to engage in meaningful discussions, share ideas, and contribute to open-source projects. Building a vibrant developer community is essential for collective progress.
 
 🎶 Beyond Coding:
-When I'm not immersed in lines of code, you might find me enjoying music, exploring the great outdoors, or indulging in a good book. Life's all about balance, and I believe in finding inspiration from various sources.
+When I'm not immersed in lines of code, you might find me enjoying music, exploring the great outdoors, playing games, having a drink with friends or indulging in a good book. Life's all about balance, and I believe in finding inspiration from various sources.
 
 I'm excited about the future of technology and the endless possibilities it holds. Thank you for stopping by my GitHub. Let's connect, collaborate, and create something amazing together! 🌟
