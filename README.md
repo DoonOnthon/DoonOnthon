@@ -25,3 +25,5 @@ Collaboration is key to growth, and I thrive in team environments. I love to eng
 When I'm not immersed in lines of code, you might find me enjoying music, exploring the great outdoors, playing games, having a drink with friends or indulging in a good book. Life's all about balance, and I believe in finding inspiration from various sources.
 
 I'm excited about the future of technology and the endless possibilities it holds. Thank you for stopping by my GitHub. Let's connect, collaborate, and create something amazing together! 🌟
+
+![duck-pixel](https://github.com/DoonOnthon/DoonOnthon/assets/73943064/3c33300e-3cc4-4a63-9389-3ea8035675df)
