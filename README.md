@@ -26,4 +26,7 @@ When I'm not immersed in lines of code, you might find me enjoying music, explor
 
 I'm excited about the future of technology and the endless possibilities it holds. Thank you for stopping by my GitHub. Let's connect, collaborate, and create something amazing together! 🌟
 
+Oh, and I'm all about games and drinks with mates too! 🎮🍻
+
+
 ![duck-pixel](https://github.com/DoonOnthon/DoonOnthon/assets/73943064/3c33300e-3cc4-4a63-9389-3ea8035675df)
