@@ -2,7 +2,7 @@
 
 📢 Update: I haven't used GitHub as much as I'd like to, but that's about to change! 🌟 I'm excited to dive deeper into the world of version control, collaboration, and open-source contributions, making GitHub a core part of my development journey. 📢
 
-🎮 Actively Working on GamePulse and New Project Idea Coming Up 🎮
+🎮 Actively Working on GamePulse and a side project SorcererCoderNet 🎮
 
 🎓 About Me:
 I'm a passionate software developer who recently completed a degree in Software Development. 🎓 My journey into the world of programming has been thrilling, and I've fallen in love with the art of coding. Solving complex problems with elegant solutions is like a puzzle I can't resist!
