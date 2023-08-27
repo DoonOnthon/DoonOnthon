@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub! 🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoonOnthon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoonOnthon)](https://github.com/anuraghazra/github-readme-stats)
 
 📢 Update: I haven't used GitHub as much as I'd like to, but that's about to change! 🌟 I'm excited to dive deeper into the world of version control, collaboration, and open-source contributions, making GitHub a core part of my development journey. 📢
 
