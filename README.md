@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub! 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoonOnthon)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=Doononthon)
 
 Main project currently (though not 24/7) = https://github.com/DoonOnthon/GamePulse
 Make sure to take a look!
