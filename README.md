@@ -3,7 +3,8 @@
 Main projects currently (though not 24/7) 
 1. https://github.com/DoonOnthon/GamePulse
 2. https://github.com/DoonOnthon/SorcererCoderNet
-3. https://growvista.nl
+3. https://growvista.nl (dutch website)
+
 Make sure to take a look!
 
 📢 Update: I haven't used GitHub as much as I'd like to, but that's about to change! 🌟 I'm excited to dive deeper into the world of version control, collaboration, and open-source contributions, making GitHub a core part of my development journey. 📢
