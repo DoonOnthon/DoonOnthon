@@ -3,7 +3,6 @@
 Main projects currently (though not 24/7) 
 1. https://github.com/DoonOnthon/GamePulse
 2. https://github.com/DoonOnthon/SorcererCoderNet
-3. https://growvista.nl (dutch website)
 
 Make sure to take a look!
 
