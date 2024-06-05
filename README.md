@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub! 🚀
 
-Main projects currently (though not 24/7) 
+I work fulltime so sadly enough i've not been having alot of time for these 2 lovely projects <3
 1. https://github.com/DoonOnthon/GamePulse
 2. https://github.com/DoonOnthon/SorcererCoderNet
 
