@@ -35,6 +35,3 @@ I'm excited about the future of technology and the endless possibilities it hold
 
 Oh, and I'm all about games and drinks with mates too! 🎮🍻
 
-
-![duck-pixel](https://github.com/DoonOnthon/DoonOnthon/assets/73943064/3c33300e-3cc4-4a63-9389-3ea8035675df)
-![bera-burucu-wizard-idle-animation](https://github.com/DoonOnthon/DoonOnthon/assets/73943064/f3be5d57-dea9-44ec-a5ea-f40d28112831)
