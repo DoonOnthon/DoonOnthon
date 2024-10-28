@@ -9,7 +9,7 @@ I work fulltime so sadly enough i've not been having alot of time for these 2 lo
 2. https://github.com/DoonOnthon/SorcererCoderNet
 
 Make sure to take a look!                                                                                                                                                        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donut&layout=donut-vertical&theme=radical)](https://github.com/Doononthon/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doononthon&show_icons=true&theme=radical&hide=contribs)](https://github.com/Doononthon/github-readme-stats)
+![Doononthon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doononthon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 📢 Update: I haven't used GitHub as much as I'd like to, but that's about to change! 🌟 I'm excited to dive deeper into the world of version control, collaboration, and open-source contributions, making GitHub a core part of my development journey. 📢
