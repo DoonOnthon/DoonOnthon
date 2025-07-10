@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub! 🚀
 
-[Second github account](https://github.com/Dean-A30)
+[Second github account](https://github.com/DeanA-30)
 
 I work fulltime so sadly enough i've not been having alot of time for open source anymore
 
